@@ -1,5 +1,6 @@
 # Undead Academia
 <img src="[http://....jpg](https://github.com/VintanaEnf/Undead-Academia/assets/104513214/1083182e-db0d-44e7-9fc5-0fd4ef66a5e7)" width="200" height="200" />
+
 ## Game Concept
 In this gripping 3rd person perspective game, immerse yourself in the eerie
 confines of a university after dark. As the main character, awakens to a desolate scene
