@@ -1,5 +1,10 @@
 # Undead Academia
-
+### Technical Details
+- Using **Unity** version **2022.3.18f1**
+- Assets made in **GIMP** version **2.10.32**
+### Download
+- **Executable download link:** ```Insert game download link here.```
+- **Git clone:** ```git clone https://github.com/VintanaEnf/Undead-Academia```
 ## Game Concept
 In this gripping 3rd person perspective game, immerse yourself in the eerie
 confines of a university after dark. As the main character, awakens to a desolate scene
