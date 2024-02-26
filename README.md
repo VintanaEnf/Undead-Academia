@@ -9,7 +9,7 @@ the shadows, and solve puzzles. Can you survive the night and unravel the myster
 shroud this place?
 
 ## Game Genre
-A blend of escape, stealth, puzzle, mystery, and survival games characterize our
+A blend of **escape, stealth, puzzle, mystery, and survival games** characterize our
 genre. To escape dangerous situations, players must sneak around, figure out puzzles, and
 survive while solving mysteries. Remaining hidden, searching around for hints, and
 putting the puzzle pieces together will get you out. The voyage is just as thrilling as the
@@ -23,7 +23,7 @@ for your survival. Learning the tragedy that befell the place while solving mind
 puzzles will help you with your ultimate goal: to escape.
 
 # Features
-Without Fog of War
+## Without Fog of War
 ![classroom without FlashLight](https://github.com/VintanaEnf/Undead-Academia/assets/104513214/66131e53-c0ff-41e6-8903-247c6ae4dccf)
-With Fog of War
+## With Fog of War
 ![classroom with FlashLight](https://github.com/VintanaEnf/Undead-Academia/assets/104513214/5d883e7b-a296-45a1-ae58-f3f31f6c1bf6)
