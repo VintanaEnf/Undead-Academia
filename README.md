@@ -1,5 +1,5 @@
 # Undead Academia
-<img src="https://github.com/VintanaEnf/Undead-Academia/assets/104513214/1083182e-db0d-44e7-9fc5-0fd4ef66a5e7" width="200" height="200" />
+<img src="https://github.com/VintanaEnf/Undead-Academia/assets/104513214/1083182e-db0d-44e7-9fc5-0fd4ef66a5e7" width="400" height="400" />
 
 ## Game Concept
 In this gripping 3rd person perspective game, immerse yourself in the eerie
@@ -18,7 +18,7 @@ putting the puzzle pieces together will get you out. The voyage is just as thril
 destination since every step forward brings with it new opportunities and discoveries.
 
 ## Gameplay
-![walkingv2](https://github.com/VintanaEnf/Undead-Academia/assets/104513214/3b1316e6-7581-4e39-9cdf-979f898812d3)
+<img src="https://github.com/VintanaEnf/Undead-Academia/assets/104513214/3b1316e6-7581-4e39-9cdf-979f898812d3" width="400" height="400" />
 
 This is a 2D pixel 3rd person perspective game that requires patience, attention,
 and good judgment. A slow-paced, heart pounding game where survival is everything. As
