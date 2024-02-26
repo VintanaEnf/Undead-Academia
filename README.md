@@ -19,6 +19,7 @@ destination since every step forward brings with it new opportunities and discov
 
 ## Gameplay
 <img src="https://github.com/VintanaEnf/Undead-Academia/assets/104513214/3b1316e6-7581-4e39-9cdf-979f898812d3" width="200" height="200" />
+<img src="https://github.com/VintanaEnf/Undead-Academia/assets/104513214/a98782a7-bea6-4a96-9bb9-ed62834b3ec9" width="200" height="200" />
 
 This is a 2D pixel 3rd person perspective game that requires patience, attention,
 and good judgment. A slow-paced, heart pounding game where survival is everything. As
