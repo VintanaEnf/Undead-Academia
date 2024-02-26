@@ -1,5 +1,5 @@
 # Undead Academia
-![Sample](https://github.com/VintanaEnf/Undead-Academia/assets/104513214/1083182e-db0d-44e7-9fc5-0fd4ef66a5e7 = 160x160)
+![Sample](https://github.com/VintanaEnf/Undead-Academia/assets/104513214/1083182e-db0d-44e7-9fc5-0fd4ef66a5e7 =160x160)
 
 ## Game Concept
 In this gripping 3rd person perspective game, immerse yourself in the eerie
