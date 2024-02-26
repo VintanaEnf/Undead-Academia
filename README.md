@@ -17,8 +17,7 @@ putting the puzzle pieces together will get you out. The voyage is just as thril
 destination since every step forward brings with it new opportunities and discoveries.
 
 ## Gameplay
-![walknew](https://github.com/VintanaEnf/Undead-Academia/assets/104513214/a14d87f7-afd7-4b08-b83f-43b1b0e113bf)
-
+![walkingv2](https://github.com/VintanaEnf/Undead-Academia/assets/104513214/3b1316e6-7581-4e39-9cdf-979f898812d3)
 This is a 2D pixel 3rd person perspective game that requires patience, attention,
 and good judgment. A slow-paced, heart pounding game where survival is everything. As
 a player you will traverse every corner of the university obtaining items that are critical
