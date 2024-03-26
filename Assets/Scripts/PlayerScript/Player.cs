@@ -14,10 +14,11 @@ public class PlayerMovement : MonoBehaviour
     //Public
     public AudioClip walk;
     public float MoveSpeed;
+    public float RunSpeed;
 
     //Private
     private float Hmove, Vmove;
-    private bool IsPlayingWalk;
+    private bool IsPlayingWalk, RunPress;
     private AudioSource aud;
 
     void Start()
@@ -26,6 +27,7 @@ public class PlayerMovement : MonoBehaviour
         Anim = GetComponent<Animator>();
         SR = GetComponent<SpriteRenderer>();
         MoveSpeed = 6;
+        RunSpeed = 10;
         IsPlayingWalk = false;
     }
 
@@ -34,13 +36,23 @@ public class PlayerMovement : MonoBehaviour
         //Player Movement
         Hmove = Input.GetAxisRaw("Horizontal");
         Vmove = Input.GetAxisRaw("Vertical");
+        RunPress = Input.GetButton("Run");
+
         Vector2 NormalizedMove = new Vector2(Hmove, Vmove).normalized; //Normalizes Vector before multiplication.
-        RB.velocity = NormalizedMove*MoveSpeed;
+
+        if(RunPress){
+            Anim.speed = 2;
+            RB.velocity = NormalizedMove*RunSpeed;
+        }
+        else if(!RunPress){
+            Anim.speed = 1;
+            RB.velocity = NormalizedMove*MoveSpeed;
+        }
 
         //Updates Animator Component Variables
         Anim.SetFloat("VAxis", RB.velocity.y);
         Anim.SetFloat("HAxis", RB.velocity.x);
-        
+    
         //Play sound when walking
         if(!IsPlayingWalk && (RB.velocity.x !=0 || RB.velocity.y != 0)) playsound(walk);
         else if (RB.velocity.x == 0 && RB.velocity.y == 0) stopsound();
