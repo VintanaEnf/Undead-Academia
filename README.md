@@ -2,6 +2,7 @@
 ### Technical Details
 - Using **Unity** version **2022.3.18f1**
 - Assets made in **GIMP** version **2.10.32**
+  
 ### Download
 - **Executable download link:** ```Insert game download link here.```
 - **Clone the repository using the code below.**
@@ -39,3 +40,8 @@ puzzles will help you with your ultimate goal: to escape.
 ![classroom without FlashLight](https://github.com/VintanaEnf/Undead-Academia/assets/104513214/66131e53-c0ff-41e6-8903-247c6ae4dccf)
 ## With Fog of War
 ![classroom with FlashLight](https://github.com/VintanaEnf/Undead-Academia/assets/104513214/5d883e7b-a296-45a1-ae58-f3f31f6c1bf6)
+
+
+All Rights Reserved for Art Assets.
+
+Permission is not granted to use, modify, or distribute the art assets included in this project without the explicit written permission of the owner.
