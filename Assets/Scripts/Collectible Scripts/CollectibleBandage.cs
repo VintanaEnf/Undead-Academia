@@ -21,7 +21,7 @@ public class CollectibleBandage : MonoBehaviour
     
     void Update()
     {
-        if (AllowPickup && Input.GetKeyDown(KeyCode.E)) 
+        if (AllowPickup && Input.GetButtonDown("Interact")) 
         {
             pickUp();
         }

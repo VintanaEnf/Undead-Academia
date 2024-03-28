@@ -22,7 +22,7 @@ public class CollectbleBattery : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (AllowPickup && Input.GetKeyDown(KeyCode.E))
+        if (AllowPickup && Input.GetButtonDown("Interact"))
         {
             pickUp();
         }
